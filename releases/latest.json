@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "available": false,
+  "version": "0.1.1",
+  "build": "2",
+  "downloadURL": null,
+  "appcastURL": "https://raw.githubusercontent.com/finlay28/layers-releases/main/releases/appcast.xml",
+  "releaseNotes": []
+}
