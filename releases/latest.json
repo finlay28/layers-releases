@@ -1,9 +1,22 @@
 {
-  "schemaVersion": 1,
-  "available": false,
-  "version": "0.1.1",
-  "build": "2",
-  "downloadURL": null,
+  "base": "https://raw.githubusercontent.com/finlay28/layers-releases/main",
+  "version": "0.1.2",
+  "build": "3",
+  "minimumSystemVersion": "15.0",
+  "publishedAt": "2026-10-31T00:20:19.762Z",
+  "releaseNotes": [
+    "Keep Sparkle update dialogs above the menu bar popup and explain an unpublished update channel.",
+    "Run profile launchers independently with permanent per-layer data paths, even when Layers is closed.",
+    "Reconcile running original apps and layers after app restarts and external Dock launches.",
+    "Safely upgrade idle legacy launchers without changing existing profile data, and preserve old launchers if rebuilding fails."
+  ],
+  "zipURL": "https://github.com/finlay28/layers-releases/releases/download/v0.1.2-3/Layers-0.1.2-3.zip",
+  "zipSize": 2812997,
+  "zipSHA256": "23fd513674d01ad260664e742263d17f2c89d99419bb448e7878800a16d60d30",
+  "downloadURL": "https://github.com/finlay28/layers-releases/releases/download/v0.1.2-3/Layers-0.1.2-3.dmg",
+  "size": 3448513,
+  "sha256": "c46084b73c5f7baf81b18818aa924b836a87484321deebef46ab93c71b13c301",
   "appcastURL": "https://raw.githubusercontent.com/finlay28/layers-releases/main/releases/appcast.xml",
-  "releaseNotes": []
+  "schemaVersion": 1,
+  "available": true
 }

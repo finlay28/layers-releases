@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Layers Updates</title><description>Official signed Layers updates. The first notarized release is being prepared.</description></channel></rss>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel>
+<title>Layers Updates</title><link>https://raw.githubusercontent.com/finlay28/layers-releases/main</link><description>Signed Layers updates</description>
+<item><title>Layers 0.1.2</title><pubDate>Sat, 31 Oct 2026 00:20:19 GMT</pubDate>
+<sparkle:version>3</sparkle:version><sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+<description>Keep Sparkle update dialogs above the menu bar popup and explain an unpublished update channel.
+Run profile launchers independently with permanent per-layer data paths, even when Layers is closed.
+Reconcile running original apps and layers after app restarts and external Dock launches.
+Safely upgrade idle legacy launchers without changing existing profile data, and preserve old launchers if rebuilding fails.</description>
+<enclosure url="https://github.com/finlay28/layers-releases/releases/download/v0.1.2-3/Layers-0.1.2-3.zip" length="2812997" type="application/octet-stream" sparkle:edSignature="oO/lLoY2n2kfzagY4XYGwLYI2bFmKM2Qu765jqxMw3H2cLB2rYynCS/eYh7xg8xhohZ7zUNPzBkceA27PPWpDg==" />
+</item></channel></rss>
