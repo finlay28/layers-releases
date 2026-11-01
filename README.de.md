@@ -4,7 +4,7 @@
 
 Layers verwaltet getrennte lokale Profile für unterstützte Mac-Apps. So kannst du persönliche, geschäftliche und kundenspezifische Konten auseinanderhalten und mehrere passende Profile gleichzeitig öffnen.
 
-**[Layers 0.1.3 herunterladen](https://github.com/finlay28/layers-releases/releases/download/v0.1.3-4/Layers-0.1.3-4.dmg)** · [Alle Versionen](https://github.com/finlay28/layers-releases/releases) · **[English](README.md)**
+**[Layers 0.1.4 herunterladen](https://github.com/finlay28/layers-releases/releases/download/v0.1.4-5/Layers-0.1.4-5.dmg)** · [Alle Versionen](https://github.com/finlay28/layers-releases/releases) · **[English](README.md)**
 
 **Ab macOS 14.0 · Apple Silicon und Intel · Mit Developer ID signiert und von Apple notarisiert**
 
@@ -221,6 +221,6 @@ Hänge keine Profilordner, Cookies, Passwörter, Token oder privaten Account-Scr
 
 Layers ist ein Produkt von **Falah Agency, Finlay Sippel**. Drittanbieter-Anwendungen und ihre Namen gehören ihren jeweiligen Rechteinhabern. Kompatibilität bedeutet keine offizielle Partnerschaft oder Empfehlung.
 
-Aktuelle Version: **0.1.3 (4)** · [Release-Hinweise](https://github.com/finlay28/layers-releases/releases/tag/v0.1.3-4) · [Update-Feed](https://raw.githubusercontent.com/finlay28/layers-releases/main/releases/appcast.xml)
+Aktuelle Version: **0.1.4 (5)** · [Release-Hinweise](https://github.com/finlay28/layers-releases/releases/tag/v0.1.4-5) · [Update-Feed](https://raw.githubusercontent.com/finlay28/layers-releases/main/releases/appcast.xml)
 
 © 2026 Layers. Alle Rechte vorbehalten.

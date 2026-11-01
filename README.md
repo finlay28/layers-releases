@@ -4,7 +4,7 @@
 
 Layers helps you use supported Mac applications with separate local profiles, so personal, work and client accounts can stay apart and run side by side.
 
-**[Download Layers 0.1.3](https://github.com/finlay28/layers-releases/releases/download/v0.1.3-4/Layers-0.1.3-4.dmg)** · [All releases](https://github.com/finlay28/layers-releases/releases) · **[Deutsch](README.de.md)**
+**[Download Layers 0.1.4](https://github.com/finlay28/layers-releases/releases/download/v0.1.4-5/Layers-0.1.4-5.dmg)** · [All releases](https://github.com/finlay28/layers-releases/releases) · **[Deutsch](README.de.md)**
 
 **macOS 14.0 or later · Apple Silicon and Intel · Developer ID signed and Apple notarized**
 
@@ -219,6 +219,6 @@ Do not attach profile data directories, cookies, passwords, tokens or private ac
 
 Layers is a product of **Falah Agency, Finlay Sippel**. Third-party applications and names remain the property of their respective owners; compatibility does not imply endorsement.
 
-Current release: **0.1.3 (4)** · [Release notes](https://github.com/finlay28/layers-releases/releases/tag/v0.1.3-4) · [Update feed](https://raw.githubusercontent.com/finlay28/layers-releases/main/releases/appcast.xml)
+Current release: **0.1.4 (5)** · [Release notes](https://github.com/finlay28/layers-releases/releases/tag/v0.1.4-5) · [Update feed](https://raw.githubusercontent.com/finlay28/layers-releases/main/releases/appcast.xml)
 
 © 2026 Layers. All rights reserved.
